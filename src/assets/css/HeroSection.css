@@ -2,5 +2,10 @@
     background-image: url(https://res.cloudinary.com/fahad-shahzad/image/upload/v1663946050/web3maker./landing-page-2/Screenshot_2022-09-23_at_7.59.05_PM_vt2wwq.png);
     background-size: cover;
     font-family: Inter,serif;
-    /* font-weight: 800; */
+}
+.mainPic {
+    border: 20px solid #5c354f;
+    border-radius: 10px;
+    height: 60%;
+    width: 90%;
 }
